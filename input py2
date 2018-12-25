@@ -1,0 +1,3 @@
+values=raw_input()
+x=values.split(",")
+print x
